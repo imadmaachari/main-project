@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/imadmaachari/main-project/issues"
   },
-  "homepage": "https://github.com/imadmaachari/main-project#readme"
+  "homepage": "https://github.com/imadmaachari/main-project#readme",
+  "dependencies": {
+    "random": "^2.1.1"
+  }
 }
